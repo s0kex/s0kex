@@ -1,4 +1,4 @@
-<img align="left" height="200" src="icon_circle.png"  />
+<img align="left" height="200" src="[icon_circle.png](https://raw.githubusercontent.com/s0kex/s0kex/refs/heads/main/icon.png)" />
 
 ###
 
