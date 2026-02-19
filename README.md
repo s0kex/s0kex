@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="icon.png" alt="Keita Sode" width="120" style="border-radius: 50%;">
-  
   <h1>Keita Sode (s0kex)</h1>
   
   <p>
