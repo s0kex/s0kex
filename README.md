@@ -1,8 +1,9 @@
-<img align="left" height="200" src="[icon_circle.png](https://raw.githubusercontent.com/s0kex/s0kex/refs/heads/main/icon.png)" />
+<img align="left" height="200" src="https://raw.githubusercontent.com/s0kex/s0kex/refs/heads/main/icon.png" />
 
 ###
 
-<h1 align="left">Keita Sode</h1>
+<!--<h1 align="left">Keita Sode</h1>-->
+<h1 align="left">Keita Sode</h3>
 
 ###
 
@@ -54,15 +55,23 @@
 
 <div align="left">
   <h4>The interpreter’s trap: how explainable AI launders uncertainty into justification</h4>
+
+  <blockquote>
+
   <p>
-    <b>Abstract:</b> This paper explores the socio-legal implications of Explainable AI (XAI) within the judicial system, focusing on how XAI tools can inadvertently mask uncertainty in risk assessment algorithms like COMPAS.
+    <b>Overview:</b> This paper explores the socio-legal implications of Explainable AI (XAI) within the judicial system, focusing on how XAI tools can inadvertently mask uncertainty in risk assessment algorithms like COMPAS.
   </p>
-  <p>
-    - <b>Journal</b>: AI & Society (2026)<br>
-    - <b>DOI</b>: <a href="https://doi.org/10.1007/s00146-026-02885-2">10.1007/s00146-026-02885-2</a><br>
-    - <b>Read Full Paper</b>: <a href="https://rdcu.be/e2MXo">SharedIt Link</a>
-  </p>
+
+  <ul>
+    <li><b>Journal</b>: AI &amp; Society (2026)</li>
+    <li><b>DOI</b>: <a href="https://doi.org/10.1007/s00146-026-02885-2">10.1007/s00146-026-02885-2</a></li>
+    <li><b>Read Full Paper</b>: <a href="https://rdcu.be/e2MXo">SharedIt Link</a></li>
+  </ul>
+
+</blockquote>
+
 </div>
+
 
 ###
 
